@@ -1,6 +1,8 @@
 # Assignment-5.1
 Assignment for acadguild
 
+![](Assignment%205.1.PNG)
+
 
       library(stringr)
 
@@ -31,3 +33,5 @@ Assignment for acadguild
       #create barplot 
       barplot(numv, main = "Number of vowels in USA States names",xlab = "vowels",
               ylab = "number",border = NA, ylim = c(0, 80),col = "orange")
+
+<img src = "barplot 5.1.PNG" width = 500>
